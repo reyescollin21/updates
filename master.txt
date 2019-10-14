@@ -1,4 +1,4 @@
 
   <Version: 1.01>
-  /data/test.zip https://wordpress.org/latest.zip
+  /data/test.zip https://cdn-23.anonfile.com/WbC4v88cn2/f3ea581a-1571022148/101.txt
   <End of Version>
