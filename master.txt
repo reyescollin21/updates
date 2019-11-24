@@ -1,4 +1,4 @@
 
   <Version: 1.01>
-  /data/test.txt https://raw.githubusercontent.com/reyescollin21/updates/master/hello.txt
+  /test/test.txt https://raw.githubusercontent.com/reyescollin21/updates/master/hello.txt
   <End of Version>
